@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dotnokato
-- 👀 I’m interested in DevOps and Information Security
+- 👀 I’m interested in dotnet, DevOps and Information Security
 <!---
 - 🌱 I’m currently learning PowerShell
 - 💞️ I’m looking to collaborate on an open source .net project 
